@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Java Script and node js
 - 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me: DM me on discord The_JamyDev#0001
+- 📫 How to reach me: DM me on discord jamydev
 
 <!---
 DevJamyDev/DevJamyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
