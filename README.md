@@ -27,17 +27,10 @@ I am a **Computer Science student** at Sorbonne Université, a **Full-Stack Deve
 
 ---
 
-## 📈 My GitHub Stats
-
-![Jamaleddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjamydev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjamydev&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/jamaleddine-benyoussef)
-*   **Portfolio / Agency:** [web4u.com](https://web4u.com) *(or your preferred link)*
-*   **Email:** your.email@example.com
+*   **LinkedIn:** [linkedin.com/in/jamaleddine-benyoussef](https://linkedin.com/in/jamaleddine-benyoussef)
+*   **Portfolio / Agency:** [web4u.com](https://web4u.com)
+*   **Email:** devjamy@gmail.com
 
 ⚡ *Fun fact: I love optimizing systems, whether it's a database query, a game engine loop, or the workflow of a business.*
