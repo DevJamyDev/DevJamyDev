@@ -1,13 +1,43 @@
-Hi there 👋
+# Hi there, I'm Jamaleddine! 👋
 
-I’m Jamy, a developer passionate about building scalable digital solutions and creative projects.
+I am a **Computer Science student** at Sorbonne Université, a **Full-Stack Developer**, and a **Tech Entrepreneur**. I bridge the gap between academic computer science and real-world business solutions, building scalable applications, immersive gaming experiences, and optimized e-commerce platforms.
 
-🚀 Working on open-source projects to grow my skills and give back to the community
+---
 
-💻 Interested in web development, game development (Roblox), and ERP systems (Odoo/WordPress)
+## 🚀 What I Do
 
-🌱 Currently learning full-stack best practices, automation, and system design
+*   **Software & Web Development:** Building robust web applications, optimizing e-commerce systems, and setting up centralized ERP solutions (Odoo) to streamline business operations.
+*   **Game Development:** Designing and managing large-scale multiplayer experiences within the Roblox ecosystem using **Luau**, focusing on optimized mechanics and engaging gameplay.
+*   **Tech Entrepreneurship:** Co-founding networks and managing digital agencies to deliver tailored technical solutions for clients globally.
 
-🎯 Goal: land a summer internship at Google and contribute to impactful technologies
+---
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/678514ff7dbe4fb02633d154?variant=dark&roadmaps=" alt="roadmap.sh"/></a>
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages & Frameworks
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C, Luau, PHP, JavaScript, HTML5, CSS3 |
+| **Web Ecosystem** | WordPress, WooCommerce, Elementor, Odoo ERP |
+
+### ⚙️ Tools & Architecture
+*   **Version Control:** Git & GitHub
+*   **Environments & Platforms:** Linux, Roblox Studio (RAGE Engine)
+*   **Business Tech:** ERP implementation, SEO optimization, workflow automation
+
+---
+
+## 📈 My GitHub Stats
+
+![Jamaleddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjamydev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjamydev&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+*   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/jamaleddine-benyoussef)
+*   **Portfolio / Agency:** [web4u.com](https://web4u.com) *(or your preferred link)*
+*   **Email:** your.email@example.com
+
+⚡ *Fun fact: I love optimizing systems, whether it's a database query, a game engine loop, or the workflow of a business.*
