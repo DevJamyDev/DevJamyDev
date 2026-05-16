@@ -22,7 +22,7 @@ I am a **Computer Science student** at Sorbonne Université, a **Full-Stack Deve
 
 ### ⚙️ Tools & Architecture
 *   **Version Control:** Git & GitHub
-*   **Environments & Platforms:** Linux, Roblox Studio (RAGE Engine)
+*   **Environments & Platforms:** Linux, Roblox Studio
 *   **Business Tech:** ERP implementation, SEO optimization, workflow automation
 
 ---
